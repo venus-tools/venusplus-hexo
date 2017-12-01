@@ -1,8 +1,11 @@
 guide: /docs/intro/
-process: /page/process.html
- api: /api
-tutorials: /tutorials/index.html
- plugins: https://github.com/search?q=topic%3Aegg-plugin&type=Repositories
-release: https://github.com/eggjs/egg/releases
+#process: /page/process.html
+ #api: /api
+#tutorials: /tutorials/index.html
+ #plugins: https://github.com/search?q=topic%3Aegg-plugin&type=Repositories
+#release: https://github.com/eggjs/egg/releases
 user: /page/user.html
-fekey: /fekey/index.html
+
+#fekey: /fekey/index.html
+
+venus-boot: /venus-boot/index.html

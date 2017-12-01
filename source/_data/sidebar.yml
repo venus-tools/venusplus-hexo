@@ -24,5 +24,14 @@ docs:
       wechat: /docs/faq/wechat.html
       contributing: /docs/faq/contributing.html
 
+# fekey
+#fekey:
+ #   Intro:
+ #     What is Fekey: /fekey/index.html
+  #    Fekey Get Start: /fekey/quickstart.html
 
-
+# fekey
+venus-boot:
+   Intro:
+      What is venus venus boot: /venus-boot/index.html
+      venus boot  Get Start: /venus-boot/quickstart.html

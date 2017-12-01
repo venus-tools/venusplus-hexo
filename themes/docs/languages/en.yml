@@ -16,8 +16,10 @@ index:
   feature32: "插件系统可插拔及可扩展随心所欲"
   getstart: "getstart"
   readmore: "readmore"
+  
 header:
   translations: "change language"
+
 sidebar:
   docs:
     Intro: 新手指南
