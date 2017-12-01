@@ -1,6 +1,6 @@
-## hexo-site-kit
+## venusplus-hexo
 
-基于Hexo快速搭建项目官网及文档平台。效果见：https://github.com/younth/hexo-site-kit/issues/1
+基于Hexo快速搭建项目官网及文档平台。
 
 ### 安装依赖
 
