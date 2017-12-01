@@ -27,7 +27,7 @@
 
 修改`_config.yml` 里面的 `theme`。目前提供两种主题：
 
-- docs: 基于 egg 官网改造
+- docs: 基于 egg 官网改造-https://eggjs.org/
 - navy: 基于 hexo 官网改造
 
 **切换主题的时候，务必先执行 `hexo clean` 清空之前的编译缓存**
