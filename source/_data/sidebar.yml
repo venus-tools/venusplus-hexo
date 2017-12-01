@@ -24,8 +24,5 @@ docs:
       wechat: /docs/faq/wechat.html
       contributing: /docs/faq/contributing.html
 
-# fekey
-fekey:
-    Intro:
-      What is Fekey: /fekey/index.html
-      Fekey Get Start: /fekey/quickstart.html
+
+

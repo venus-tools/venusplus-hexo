@@ -4,8 +4,8 @@ menu:
   tutorials: 教程
   user: 使用案例
   process: 接入流程
-  # plugins: 插件
-  # release: 发布日志
+  plugins: 插件
+  release: 发布日志
 
 index:
   slogan: "专注于企业微服务解决方案"
@@ -23,10 +23,11 @@ header:
 sidebar:
   docs:
     Intro: 新手指南
-    What is NodeUI: NodeUI 是什么
+    What is NodeUI: venus 是什么
     Get Start: 快速入门
-    Basics: 基础功能
-    Structure: 目录结构
+
+    Basics: Venus Boot
+    Structure: 项目列表
     Environment: 运行环境
     Config: 配置
     Middleware: 中间件
@@ -38,7 +39,8 @@ sidebar:
     Custom init: 启动自定义
     Development: 本地开发
     Unit Testing: 单元测试
-    Core: 核心功能
+
+    Core: Venus Cube
     Security: 安全
     View: 模板渲染
     View Plugin: 模板插件开发规范
@@ -50,7 +52,9 @@ sidebar:
     Cluster and IPC: 多进程模型和进程间通讯
     Cooke and Session: Cookie 和 Session
     Tutorials: 教程
-    Advanced: 进阶
+
+
+    Advanced: Venus Cloud
     Cluster Client: 多进程研发模式增强
     Framework: 框架开发
     Plugin: 插件开发
