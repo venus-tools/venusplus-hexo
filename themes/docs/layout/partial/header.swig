@@ -1,7 +1,7 @@
 <div class="nav" >
   <header>
     <a href="{{ index_link() }}" class="nav-logo" alt="nodeui">
-    <img src="/images/logo.png" width="89"><span>NodeUI</span>
+    <img src="/images/logo.png" width="89"><span>Venus</span>
     </a>
     <ul class="nav-item">
       <li>
