@@ -8,7 +8,7 @@
       <p style="font-size: 22px;" class="fadeInUp animated">{{ page.subtitle }}</p>
       <p class="banner-button fadeInUp animated">
         <a class="btn btn-primary" href="{{ index_link('/docs/intro/quickstart.html') }}">{{ __('index.getstart') }}</a>
-        <a class="btn btn-secondary" href="http://xiaolvyun.baidu.com/waimai/icode/repo/waimai%2Fc_fe%2Ffly/files/master/tree/">iCode</a>
+        <a class="btn btn-secondary" href="https://github.com/venus-boot">github</a>
       </p>
     </div>
   </div>

@@ -5,32 +5,31 @@
     <li>
       <dl>
         <dt>Github</dt>
-        <dd><a href="https://github.com/eggjs" target="_blank">Organization</a></dd>
-        <dd><a href="https://github.com/eggjs/examples" target="_blank">Examples</a></dd>
+        <dd><a href="http://venusplus.cn" target="_blank">Organization</a></dd>
+        <dd><a href="http://venusplus.cn" target="_blank">Examples</a></dd>
       </dl>
       </li><li>
       <dl>
         <dt>Community</dt>
-        <dd><a href="https://github.com/eggjs/egg/releases" target="_blank">Changelog</a></dd>
-        <dd><a href="https://eggjs.org/zh-cn/faq.html" target="_blank">FAQ</a></dd>
-        <dd><a href="https://github.com/eggjs/egg/issues" target="_blank">Issues</a></dd>
+        <dd><a href="#" target="_blank">Changelog</a></dd>
+        <dd><a href="#" target="_blank">FAQ</a></dd>
+        <dd><a href="#" target="_blank">Issues</a></dd>
       </dl>
-      </li><li>
+      </li>
+      <li>
       <dl>
         <dt>Links</dt>
-        <dd><a href="https://ant.design" target="_blank">Ant Design</a></dd>
-        <dd><a href="http://enclose.io" target="_blank">Enclose.IO</a></dd>
+        <dd><a href="https://xujin.org" target="_blank">许进沉思录</a></dd>
+        <dd><a href="http://springcloud.cn" target="_blank">Spring Cloud中国社区</a></dd>
       </dl>
       </li>
     </ul>
+    <!--
     <div class="right">
-      <div>
-        <span>Latest: 2.0.0</span>
-        <span>Node.js: &gt;= 8.0.0</span>
-      </div>
       <div class="license">Released under the MIT License </div>
-      <a href="https://github.com/eggjs"><img src="/images/github.svg"></a>
+      <a href="#"><img src="/images/github.svg"></a>
     </div>
+    -->
   </footer>
 </div>
 
